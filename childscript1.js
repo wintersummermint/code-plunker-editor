@@ -1,0 +1,1 @@
+function html_convert(){parent.tml_convert()}function Clear_all(){parent.resetvalue()}document.addEventListener("DOMContentLoaded",function(){$("#htmlconvert").on("click",function(){html_convert()}),$("#clearall").on("click",function(){Clear_all()})});

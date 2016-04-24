@@ -1,0 +1,49 @@
+body {
+	font-family: 'Lato','Helvetica','Verdana';
+	background: #2D3159 repeat;
+}
+.header {
+	margin: 0px 0px 30px 0px;
+	height: 80px;
+}
+iframe {
+  resize: both;
+  overflow: auto;
+}
+a {
+	color: #9A98F8;
+}
+a:hover {
+	color: #9A98F8;
+}
+#plkimg {
+	margin-top: 10px;
+}
+.reset-btn {
+	float:right;
+	margin-top: 20px;
+	width: 50%;
+}
+h1 {
+	font-weight: 700;
+	border-bottom: 3px solid #FEFEFE;
+}
+.commonbuttoniframe {
+	background: #2D3159 repeat;
+}
+.main {
+	background: #2D3159 repeat;
+	height: 100%;
+	color:#F6F6F6;
+}
+.first-box {
+	background-color: #FEFEFE;
+	min-height:390px;width:100%;
+}
+.second-box {
+	background-color: #FEFEFE;
+	min-height:390px;width:100%;
+}
+.submit-btn {
+
+}
